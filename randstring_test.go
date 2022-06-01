@@ -1,4 +1,4 @@
-package randstring
+package github.com/jn1989/randstring
 
 import (
 	"regexp"
